@@ -30,5 +30,5 @@ Entry-level IT Support professional with hands-on experience in system troublesh
 - Identified common threats and mitigation strategies
 
 ## Contact
-- Email: (add your email here)
+- Email: williamomari1997@gmail.com
 - GitHub: https://github.com/your-username
