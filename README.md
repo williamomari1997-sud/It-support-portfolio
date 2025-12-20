@@ -1,7 +1,7 @@
 # IT Support Portfolio – William Omari
 
 ## About Me
-Entry-level IT Support professional with hands-on experience in system troubleshooting, user support, basic networking, and security fundamentals. Passionate about solving technical problems and supporting end users effectively.
+IT Support professional with hands-on experience in system troubleshooting, user support,networking, and security fundamentals. Passionate about solving technical problems and supporting end users effectively.
 
 ## Skills
 - Windows 10 / Linux (Ubuntu)
