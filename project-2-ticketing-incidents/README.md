@@ -1,60 +1,86 @@
-# Project 2: IT Support Ticketing & Incident Management
+# Project 2: IT Service Desk Ticketing & Incident Management
 
 ## Objective
-To demonstrate understanding of IT support ticketing systems, incident prioritization, troubleshooting documentation, and resolution workflows.
+To demonstrate hands-on understanding of IT Service Desk operations using ITIL-aligned ticketing workflows similar to ServiceNow and Jira Service Management.
 
-## Tools & Concepts
+## Service Desk Concepts Used
+- Incident Management (ITIL)
 - Ticket lifecycle management
-- Incident categorization
-- Priority levels (Low, Medium, High)
-- SLA awareness
-- User communication
+- SLA-based prioritization
+- Impact vs Urgency assessment
+- User communication and documentation
+- First-line support resolution
 
-## Ticket Workflow
-1. Ticket creation by user
-2. Issue categorization
-3. Priority assignment
-4. Troubleshooting and diagnosis
-5. Resolution
-6. Documentation and closure
+## Ticket Lifecycle Workflow
+1. Incident logged by end user
+2. Categorization (Access, Hardware, Software, Network)
+3. Impact & urgency assessment
+4. Priority assignment (P1–P4)
+5. Troubleshooting & resolution
+6. User confirmation
+7. Ticket closure with documentation
 
-## Sample Tickets
+## Sample Incidents (Simulated)
 
-### Ticket 001 – User Cannot Log In
-- Category: Access Issue
-- Priority: High
-- Description: User reports inability to log into workstation
-- Action Taken:
-  - Verified user account status
-  - Reset password
-  - Confirmed successful login
-- Resolution: Issue resolved
-- Status: Closed
+### INC-001 – User Unable to Log In
+- Category: Access Management
+- Impact: High (user unable to work)
+- Urgency: High
+- Priority: P1
+- SLA Target: 4 hours
 
-### Ticket 002 – Slow Computer Performance
-- Category: Performance Issue
-- Priority: Medium
-- Description: System running slowly during normal operations
-- Action Taken:
-  - Checked startup applications
-  - Performed disk cleanup
-  - Verified available system resources
-- Resolution: Performance improved
-- Status: Closed
+**Actions Taken**
+- Verified account status
+- Reset user password
+- Confirmed successful login with user
 
-### Ticket 003 – No Internet Connectivity
-- Category: Network Issue
-- Priority: High
-- Description: User unable to access the internet
-- Action Taken:
-  - Checked network adapter status
-  - Verified IP configuration
-  - Performed ping and DNS tests
-- Resolution: Network restored
-- Status: Closed
+**Resolution**
+- Access restored
+- Ticket closed after user confirmation
+
+---
+
+### INC-002 – Slow System Performance
+- Category: Hardware / Performance
+- Impact: Medium
+- Urgency: Medium
+- Priority: P3
+- SLA Target: 24 hours
+
+**Actions Taken**
+- Reviewed startup applications
+- Performed disk cleanup
+- Verified system resource usage
+
+**Resolution**
+- Performance optimized
+- User confirmed improvement
+
+---
+
+### INC-003 – No Internet Connectivity
+- Category: Network Services
+- Impact: High
+- Urgency: High
+- Priority: P1
+- SLA Target: 4 hours
+
+**Actions Taken**
+- Checked network adapter status
+- Verified IP configuration
+- Performed ping and DNS tests
+
+**Resolution**
+- Network connectivity restored
+- Ticket documented and closed
+
+## Tools Simulated
+- ServiceNow-style incident queue
+- Jira Service Management workflow concepts
+- Knowledge base documentation
 
 ## What I Learned
-- Importance of structured troubleshooting
-- Clear communication with users
-- Proper documentation for future reference
-- Prioritization of incidents based on impact
+- How real IT Service Desks operate
+- SLA-driven prioritization
+- Importance of user communication
+- Structured documentation for audits and escalation
